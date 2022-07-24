@@ -1,0 +1,11 @@
+E:\c#\tpSimulacion\tpSimulacion\bin\Debug\tpSimulacion.exe.config
+E:\c#\tpSimulacion\tpSimulacion\bin\Debug\tpSimulacion.exe
+E:\c#\tpSimulacion\tpSimulacion\bin\Debug\tpSimulacion.pdb
+E:\c#\tpSimulacion\tpSimulacion\obj\Debug\tpSimulacion.csproj.AssemblyReference.cache
+E:\c#\tpSimulacion\tpSimulacion\obj\Debug\tpSimulacion.csproj.SuggestedBindingRedirects.cache
+E:\c#\tpSimulacion\tpSimulacion\obj\Debug\tpSimulacion.Properties.Resources.resources
+E:\c#\tpSimulacion\tpSimulacion\obj\Debug\tpSimulacion.TpSIM.resources
+E:\c#\tpSimulacion\tpSimulacion\obj\Debug\tpSimulacion.csproj.GenerateResource.cache
+E:\c#\tpSimulacion\tpSimulacion\obj\Debug\tpSimulacion.csproj.CoreCompileInputs.cache
+E:\c#\tpSimulacion\tpSimulacion\obj\Debug\tpSimulacion.exe
+E:\c#\tpSimulacion\tpSimulacion\obj\Debug\tpSimulacion.pdb
